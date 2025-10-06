@@ -1,7 +1,7 @@
 # Poached Eggs
 
 
-**Photograph of a smoked salmon avocado toast w/a poached egg**(https://www.killingthyme.net/wp-content/uploads/2023/12/smoked-salmon-poached-egg-1-1.jpg){width=20% alt-text="Photograph of a smoked salmon avocado toast w/a poached egg"}
+![Photograph of a smoked salmon avocado toast w/a poached egg](https://www.killingthyme.net/wp-content/uploads/2023/12/smoked-salmon-poached-egg-1-1.jpg)
 
 This article provides some basic instructions on how to **deliciously** poach an egg! For more information, check out this recipe [love & lemons](https://www.loveandlemons.com/poached-eggs/).
 
