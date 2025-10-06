@@ -29,7 +29,7 @@ Here's the steps to cook a poached egg:
 ## References
 
 1. [Love & Lemons](https://www.loveandlemons.com/poached-eggs/)
-2. [Cilbir] (https://en.wikipedia.org/wiki/Çılbır)
-3. [Mi-Goreng] (https://en.wikipedia.org/wiki/Mie_goreng)
-4. [Shaksouka] (https://en.wikipedia.org/wiki/Shakshouka)
-4. [Poached Eggs Wiki] (https://en.wikipedia.org/wiki/Poached_egg)
+2. [Cilbir](https://en.wikipedia.org/wiki/Çılbır)
+3. [Mi-Goreng](https://en.wikipedia.org/wiki/Mie_goreng)
+4. [Shaksouka](https://en.wikipedia.org/wiki/Shakshouka)
+4. [Poached Eggs Wiki](https://en.wikipedia.org/wiki/Poached_egg)
