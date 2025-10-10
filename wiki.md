@@ -6,6 +6,8 @@ permalink: /wiki/
 
 # Poached Eggs 
 
+A poached egg is an egg that has been cooked by gently simmering it in water without its shell. The cooking method produces a tender egg white that encases a soft, runny yolk. Poached eggs are commonly served on toast, salads, or in classic dishes such as eggs Benedict. They are valued for their delicate texture and are often prepared using vinegar or swirling water to help the egg maintain its shape during cooking.
+
 ![](https://www.killingthyme.net/wp-content/uploads/2023/12/smoked-salmon-poached-egg-1-1.jpg)
 
 This article provides some basic instructions on how to **deliciously** poach an egg! For more information, check out this recipe poached eggs.
