@@ -1,4 +1,10 @@
-# Poached Eggs LOL
+---
+layout: default
+title: Wiki
+permalink: /wiki/
+---
+
+# Poached Eggs 
 
 ![](https://www.killingthyme.net/wp-content/uploads/2023/12/smoked-salmon-poached-egg-1-1.jpg)
 
