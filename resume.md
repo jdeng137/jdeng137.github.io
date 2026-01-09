@@ -1,8 +1,8 @@
 <img style="position: absolute; top: 10px; right: 10px; width: 70px; height: 70px;  border-radius: 50%; padding: 10px;" src="assets/favicon.ico" />
 
-# Jiali   
+# Jiali Deng 
 
-jdeng137@uw.edu <br> mobile: 425-215-6949 <br> Linkedin: https://www.linkedin.com/in/jiali-deng-401b16269/
+>jdeng137@uw.edu <br> mobile: 425-215-6949 <br> Linkedin: https://www.linkedin.com/in/jiali-deng-401b16269/
 
 ## Summary
 
