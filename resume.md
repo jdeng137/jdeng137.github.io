@@ -1,4 +1,4 @@
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="assets/favicon.ico" />
+<img style="float:right;border-radius:70%;width:70px;padding:6px" src="assets/favicon.ico" />
 
 # Jiali Deng  
 
