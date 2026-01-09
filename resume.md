@@ -4,7 +4,7 @@
 
 >http://www.example.com
 
->http://www.linkedin.com/in/yourname
+http://www.linkedin.com/in/yourname
 
 # Summary
 
