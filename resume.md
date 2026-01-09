@@ -10,7 +10,9 @@ Quick Summary (not objective) specifically highlighting why you qualify for the 
 
 # Work Experience (only last 10 years)
 
-## University Name 1 (City, State)
+## University of Washington (Seattle, WA)
+
+![](https://1000logos.net/wp-content/uploads/2022/07/University-of-Washington-Logo.png)
 
 * [University 1][] description, particularly if not well-known.*
 
