@@ -36,14 +36,14 @@ and data limitations for each research question
 
 ## Work Experience
 
-### YOUNGLIFE (Issaquah, WA)
+### [YOUNGLIFE](https://www.younglife.org) (Issaquah, WA)
 
 **Youth Leader** (June 2024 - September 2024)
 * Led mentorship sessions, guiding students through faith-based discussions to drive personal growth
 * Provided one-on-one mindfulness support to campers
 * Facilitated group activities to foster community, teamwork, and leadership among campers
 
-### RENTON FARMER'S MARKRET (Renton, WA)
+### [RENTON FARMER'S MARKET](https://www.rentonfarmersmarket.com) (Renton, WA)
 **Intern** (June 2021 - September 2023)
 * Collaborated with vendors and city administrators to facilitate set-up and take-down operations
 * Implemented crowd management strategies to ensure the well-being of Renton residents
@@ -54,4 +54,4 @@ and data limitations for each research question
 **Tools:** QGIS, BigML, Tableau, D3.js, Microsoft Excel, Microsoft Word
 **Skills:** Java, Python, R, SQL, Data Wrangling, Statistical Analysis, Data Visualization, GIS Mapping
 **Languages:** Native Proficiency in English, Conversational Proficiency in Cantonese
-**Interests:** Tennis, Hiking, Weightlifting, Disc Gol
+**Interests:** Tennis, Hiking, Weightlifting, Disc Golf
