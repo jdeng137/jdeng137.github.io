@@ -6,45 +6,55 @@
 
 ## Education
 
-* **University of Washington**                                                 Seattle, WA
-* Bachelors of Science in Informatics: Data Science &
-  Bachelors of Arts in Geography: Data Science 
+**University of Washington (Seattle, WA)**                                         
+* *Bachelors of Science* in Informatics: Data Science &
+  *Bachelors of Arts* in Geography: Data Science 
 * **Relevant Coursework:** CSE 121, CSE 122, CSE 160, GEOG 450, GEOG 360, STATS 311, INFO 200
 
-* 10 years project/team management experience
-* PMP, OCP, AWS Certification
-* Hand-on experience in oracle database
-* Proficient in JavaScript  , Java, Powerbuilder
+## Projects
 
-## Working Experience
+### PACH - PERSONALIZED AI COMPANION (October 2024)
 
-#### Current Company (Project Manager, 2015/08 - present) 
+* Led a 7-person team in the development of a prototype for an AI health robot, managing project timelines, delegating tasks,
+and ensuring successful completion of key deliverables.
+* Created an intuitive, user-friendly website design as part of the INFO 200 course, effectively presenting the AI health robot
+prototype and supporting research to the class for feedback and evaluation
 
-* Lead team of 10 to oversee conception, requirement gathering, documentation and rollout.
-* Conduct troubleshooting, analysis and support. Gather user feedback, document bugs and change requests.
+### REDDIT FINANCIAL INDEPENDENCE SURVEY PROJECT (April 2024)
 
-#### Second Company (System Analyst, 2011/06 - 2015/07) 
+* Managed a 3-person team to conduct a comprehensive analysis of the 2020 Reddit Financial Independence Survey dataset,
+exploring the impact of education, retirement accounts, and the COVID-19 pandemic on post-retirement expenditures
+* Developed advanced visualizations and statistical models using R, including scatterplots, boxplots, and bar charts, as part of a
+STAT 311 project to uncover relationships between dataset categories
 
-* Led team of 5 for application development
-* Coordinated with developers, support staff and vendors across Hong Kong, China, Taiwan
+### YOUTH TOBACCO SURVEY ANALYSIS PROJECT (April 2024)
 
-#### My first Company (Analyst Programmer, 2005/01 - 2011/05)
+* Used Excel to compute descriptive statistics (mean, median, standard deviation, min, max) across confidence and usage
+attributes across 10 years of survey data
+* Built a multi-sheet Excel workbook to separate raw data, statistical analysis, and results presentation, clearly outlining findings
+and data limitations for each research question
 
-* Develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
+## Work Experience
 
-## Projects: 
+### YOUNGLIFE (Issaquah, WA)
 
-* [Casual-Markdown](https://github.com/casualwriter/powerpage) - a lightweight markdown parser
-* [Powerpage](https://github.com/casualwriter/powerpage) - a lightweight browser for html applications
+**Youth Leader** (June 2024 - September 2024)
+* Led mentorship sessions, guiding students through faith-based discussions to drive personal growth
+* Provided one-on-one mindfulness support to campers
+* Facilitated group activities to foster community, teamwork, and leadership among campers
 
-## Education & Qualifications
+### RENTON FARMER'S MARKRET (Renton, WA)
+**Intern** (June 2021 - September 2023)
+* Collaborated with vendors and city administrators to facilitate set-up and take-down operations
+* Implemented crowd management strategies to ensure the well-being of Renton residents
+* Translated for 200+ non-English speaking citizens
 
-* AWS Certification (2021/12)
-* Oracle Certified Professional (2020/02)
-* Project Management Professional (PMP) (2018/10)
-* Bachelor of Computer Science (Sep 2004)
-* The Chinese University of Hong Kong (2000 - 2004)
+## ADDITIONAL
 
-## Misc. Information
+**Tools:** QGIS, BigML, Tableau, D3.js, Microsoft Excel, Microsoft Word
 
-* Languages: English (good), Cantonese (fluent/native)
+**Skills:** Java, Python, R, SQL, Data Wrangling, Statistical Analysis, Data Visualization, GIS Mapping
+
+**Languages:** Native Proficiency in English, Conversational Proficiency in Cantonese
+
+**Interests:** Tennis, Hiking, Weightlifting, Disc Gol
