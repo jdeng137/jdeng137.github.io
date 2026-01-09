@@ -1,7 +1,7 @@
 <a class="navbar-brand" href="/"></a>
 <img style="float:right;border-radius:90%;width:70px;padding:6px" src="assets/favicon.ico" />
 
-# Jiali Deng  
+# Jiali   
 
 jdeng137@uw.edu <br> mobile: 425-215-6949 <br> Linkedin: https://www.linkedin.com/in/jiali-deng-401b16269/
 
