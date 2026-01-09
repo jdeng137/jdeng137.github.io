@@ -1,8 +1,3 @@
----
-layout: default
-title: Jiali Deng
----
-<a class="navbar-brand" href="/"></a>
 <img style="float:right;border-radius:90%;width:70px;padding:6px" src="assets/favicon.ico" />
 
 # Jiali   
