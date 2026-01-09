@@ -10,6 +10,7 @@
 * ***Bachelors of Science*** in Informatics: Data Science &
   ***Bachelors of Arts*** in Geography: Data Science 
 * **Relevant Coursework:** CSE 121, CSE 122, CSE 160, GEOG 450, GEOG 360, STATS 311, INFO 200
+![](https://www.socialsciencesonline.uw.edu/media/4nqlucxi/uw-iss-uwcampus.jpeg)
 
 ## Projects
 
