@@ -1,9 +1,7 @@
-# Your Name
+# Jiali Deng
 
 >your.name@example.com
-
->http://www.example.com
-
+http://www.example.com
 http://www.linkedin.com/in/yourname
 
 # Summary
