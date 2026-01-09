@@ -2,9 +2,14 @@
 
 # Jiali Deng 
 
->**Email:** jdeng137@uw.edu <br> **Mobile:** 425-215-6949 <br> **Linkedin:** https://www.linkedin.com/in/jiali-deng-401b16269/
+>**Email:** jdeng137@uw.edu <br> **Mobile:** 425-215-6949 <br> **Linkedin:** [https://www.linkedin.com/in/jiali-deng-401b16269/](https://www.linkedin.com/in/jiali-deng-401b16269/)
 
-## Summary
+## Education
+
+* **University of Washington**                                                 Seattle, WA
+* Bachelors of Science in Informatics: Data Science &
+  Bachelors of Arts in Geography: Data Science 
+* **Relevant Coursework:** CSE 121, CSE 122, CSE 160, GEOG 450, GEOG 360, STATS 311, INFO 200
 
 * 10 years project/team management experience
 * PMP, OCP, AWS Certification
