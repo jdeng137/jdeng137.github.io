@@ -1,8 +1,10 @@
 # Jiali Deng
 
-your.name@example.com
-http://www.example.com
-http://www.linkedin.com/in/yourname
+## Email
+>jdeng137@uw.edu
+
+## Let's Connect!
+>https://www.linkedin.com/in/jiali-deng-401b16269/
 
 # Summary
 
