@@ -1,10 +1,8 @@
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="favicon.ico" />
-
-<span style="float:right;padding:6px"> 
-  jdeng137@uw.edu <br> mobile: 425-215-6949 <br> Linkedin: https://www.linkedin.com/in/jiali-deng-401b16269/
-</span>
+<img style="float:right;border-radius:50%;width:70px;padding:6px" src="assets/favicon.ico" />
 
 # Jiali Deng  
+
+jdeng137@uw.edu <br> mobile: 425-215-6949 <br> Linkedin: https://www.linkedin.com/in/jiali-deng-401b16269/
 
 ## Summary
 
