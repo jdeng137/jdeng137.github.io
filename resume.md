@@ -1,4 +1,4 @@
-<img style="float:right;border-radius:90%;width:70px;padding:6px" src="assets/favicon.ico" />
+<img style="position: absolute; top: 10px; right: 10px; width: 70px; height: 70px;  border-radius: 50%; padding: 10px;" src="assets/favicon.ico" />
 
 # Jiali   
 
@@ -9,7 +9,7 @@ jdeng137@uw.edu <br> mobile: 425-215-6949 <br> Linkedin: https://www.linkedin.co
 * 10 years project/team management experience
 * PMP, OCP, AWS Certification
 * Hand-on experience in oracle database
-* Proficient in JavaScript, Java, Powerbuilder
+* Proficient in JavaScript  , Java, Powerbuilder
 
 ## Working Experience
 
