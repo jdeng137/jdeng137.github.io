@@ -49,6 +49,7 @@ and data limitations for each research question
 * Collaborated with vendors and city administrators to facilitate set-up and take-down operations
 * Implemented crowd management strategies to ensure the well-being of Renton residents
 * Translated for 200+ non-English speaking citizens
+
 ![](https://www.rentonfarmersmarket.com/images/SNAP-Bucks-2020.png)
 
 ## Additional
