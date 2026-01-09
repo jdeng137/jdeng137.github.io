@@ -49,10 +49,14 @@ and data limitations for each research question
 * Collaborated with vendors and city administrators to facilitate set-up and take-down operations
 * Implemented crowd management strategies to ensure the well-being of Renton residents
 * Translated for 200+ non-English speaking citizens
+![](https://www.rentonfarmersmarket.com/images/SNAP-Bucks-2020.png)
 
 ## Additional
 
 **Tools:** QGIS, BigML, Tableau, D3.js, Microsoft Excel, Microsoft Word
+
 **Skills:** Java, Python, R, SQL, Data Wrangling, Statistical Analysis, Data Visualization, GIS Mapping
+
 **Languages:** Native Proficiency in English, Conversational Proficiency in Cantonese
+
 **Interests:** Tennis, Hiking, Weightlifting, Disc Golf
