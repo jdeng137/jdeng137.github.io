@@ -1,10 +1,10 @@
 # Your Name
 
-your.name@example.com
+>your.name@example.com
 
-http://www.example.com
+>http://www.example.com
 
-http://www.linkedin.com/in/yourname
+>http://www.linkedin.com/in/yourname
 
 # Summary
 
