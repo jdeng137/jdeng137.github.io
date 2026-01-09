@@ -49,12 +49,9 @@ and data limitations for each research question
 * Implemented crowd management strategies to ensure the well-being of Renton residents
 * Translated for 200+ non-English speaking citizens
 
-## ADDITIONAL
+## Additional
 
 **Tools:** QGIS, BigML, Tableau, D3.js, Microsoft Excel, Microsoft Word
-
 **Skills:** Java, Python, R, SQL, Data Wrangling, Statistical Analysis, Data Visualization, GIS Mapping
-
 **Languages:** Native Proficiency in English, Conversational Proficiency in Cantonese
-
 **Interests:** Tennis, Hiking, Weightlifting, Disc Gol
