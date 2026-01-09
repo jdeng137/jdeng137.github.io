@@ -50,6 +50,8 @@ and data limitations for each research question
 * Implemented crowd management strategies to ensure the well-being of Renton residents
 * Translated for 200+ non-English speaking citizens
 
+
+
 ![](https://www.rentonfarmersmarket.com/images/SNAP-Bucks-2020.png)
 
 ## Additional
