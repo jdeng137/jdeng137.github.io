@@ -1,12 +1,12 @@
 <img style="float:right;border-radius:50%;width:70px;padding:6px" src="favicon.ico" />
 
 <span style="float:right;padding:6px"> 
-  someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Chinese
+  jdeng137@uw.edu <br> mobile: 425-215-6949 <br> Linkedin: https://www.linkedin.com/in/jiali-deng-401b16269/
 </span>
 
-# Casualwriter  
+# Jiali Deng  
 
-## Executive Summary
+## Summary
 
 * 10 years project/team management experience
 * PMP, OCP, AWS Certification
@@ -44,5 +44,4 @@
 
 ## Misc. Information
 
-* Languages: English (good), Cantonese (fluent/native), Mandarin (good)
-* Availability: 1 month's notice
+* Languages: English (good), Cantonese (fluent/native)
