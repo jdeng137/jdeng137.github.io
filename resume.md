@@ -1,57 +1,48 @@
-# Jiali Deng
+<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
 
-## Email
->jdeng137@uw.edu
+<span style="float:right;padding:6px"> 
+  someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Chinese
+</span>
 
-## Let's Connect!
->https://www.linkedin.com/in/jiali-deng-401b16269/
+# Casualwriter  
 
-# Summary
+## Executive Summary
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+* 10 years project/team management experience
+* PMP, OCP, AWS Certification
+* Hand-on experience in oracle database
+* Proficient in JavaScript, Java, Powerbuilder
 
-# Work Experience (only last 10 years)
+## Working Experience
 
-## University of Washington (Seattle, WA)
+#### Current Company (Project Manager, 2015/08 - present) 
 
-![](https://1000logos.net/wp-content/uploads/2022/07/University-of-Washington-Logo.png)
+* Lead team of 10 to oversee conception, requirement gathering, documentation and rollout.
+* Conduct troubleshooting, analysis and support. Gather user feedback, document bugs and change requests.
 
-* [University 1][] description, particularly if not well-known.*
+#### Second Company (System Analyst, 2011/06 - 2015/07) 
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+* Led team of 5 for application development
+* Coordinated with developers, support staff and vendors across Hong Kong, China, Taiwan
 
-Summary of your role
+#### My first Company (Analyst Programmer, 2005/01 - 2011/05)
 
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
+* Develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
 
-## University Name 2 (City, State)
-*[University 2][] description, particularly if not well-known.*
+## Projects: 
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+* [Casual-Markdown](https://github.com/casualwriter/powerpage) - a lightweight markdown parser
+* [Powerpage](https://github.com/casualwriter/powerpage) - a lightweight browser for html applications
 
-Summary of your role
+## Education & Qualifications
 
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
+* AWS Certification (2021/12)
+* Oracle Certified Professional (2020/02)
+* Project Management Professional (PMP) (2018/10)
+* Bachelor of Computer Science (Sep 2004)
+* The Chinese University of Hong Kong (2000 - 2004)
 
-## University Name 3 (City, State)
-* [University 3][] description, particularly if not well-known.*
+## Misc. Information
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu
+* Languages: English (good), Cantonese (fluent/native), Mandarin (good)
+* Availability: 1 month's notice
