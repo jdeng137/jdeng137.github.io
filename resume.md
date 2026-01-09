@@ -1,4 +1,4 @@
-<img style="position: absolute; top: 10px; right: 10px; width: 70px; height: 70px;  border-radius: 50%; padding: 10px;" src="assets/favicon.ico" />
+<img style="position: absolute; top: 10px; right: 10px; width: 70px; height: 70px;  border-radius: 50%; padding: 10px;" src="assets/huskies.png" />
 
 # Jiali Deng 
 
@@ -6,7 +6,7 @@
 
 ## Education
 
-**University of Washington (Seattle, WA)**                                         
+### University of Washington (Seattle, WA)                                   
 * ***Bachelors of Science*** in Informatics: Data Science &
   ***Bachelors of Arts*** in Geography: Data Science 
 * **Relevant Coursework:** CSE 121, CSE 122, CSE 160, GEOG 450, GEOG 360, STATS 311, INFO 200
